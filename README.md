@@ -88,4 +88,6 @@ Open 3 terminals
 2. admin-event-management -- npm run dev
 3. backend -- npm start
 
+
+
 Let me know if you'd like this customized further!
