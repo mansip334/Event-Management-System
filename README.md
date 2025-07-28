@@ -4,28 +4,37 @@
 This is a full-stack web application that allows users to register, log in, view events, and manage their participation in events. It also provides admin functionality to manage event listings, add events, delete any, view participated users to event.
 
 🛠️ Tech Stack
+
+
 Frontend
+
 React.js – for building responsive and dynamic UI
 CSS – for styling and layout
 
 Backend
+
 Node.js
 Express.js
 
 Database
+
 MySQL – for storing user and event data
 
 Authentication & Security
+
 JWT (JSON Web Tokens) – used for secure user authentication and session management
 bcrypt.js – for password hashing
 
 ✅ Key Features
+
+
 🔐 User Registration & Login with JWT-based authentication
 👥 Role-based access control (user/admin)
 📅 Create, View, Update, and Delete (CRUD) Events
 📨 Contact Us and Feedback Forms
 📃 Secure protected routes using JWT
 📈 Responsive UI for better user experience
+
 
 🚀 Getting Started
 1. Clone the repo
