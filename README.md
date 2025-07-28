@@ -29,11 +29,17 @@ bcrypt.js – for password hashing
 
 
 🔐 User Registration & Login with JWT-based authentication
+
 👥 Role-based access control (user/admin)
+
 📅 Create, View, Update, and Delete (CRUD) Events
+
 📨 Contact Us and Feedback Forms
+
 📃 Secure protected routes using JWT
+
 📈 Responsive UI for better user experience
+
 
 
 🚀 Getting Started
@@ -43,23 +49,36 @@ bcrypt.js – for password hashing
   cd frontend
   --------------------------
   npm install
+ 
   npm i axios
+  
   npm i react react-dom
+  
   npm install react-router-dom
+  
   --------------------------
   cd ../backend
   --------------------------
+  
   npm i express
+  
   npm i mysql2
+  
   npm install bcryptjs jsonwebtoken
+  
   --------------------------
   cd ../admin-event-management
   --------------------------
+  
   npm install
+  
   npm i axios
+  
   npm install react react-dom
+  
   npm install react-router-dom
---------------------------
+  
+  --------------------------
 
 2. Set-up .env file
 
