@@ -1,4 +1,6 @@
 🎉 Event Management System
+
+
 This is a full-stack web application that allows users to register, log in, view events, and manage their participation in events. It also provides admin functionality to manage event listings, add events, delete any, view participated users to event.
 
 🛠️ Tech Stack
