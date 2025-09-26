@@ -81,8 +81,8 @@ bcrypt.js – for password hashing
   --------------------------
 
 2. Set-up .env file
+3. Run the project Open 3 terminals
 
-3. Run the project
 Open 3 terminals
 1. frontend -- npm run dev
 2. admin-event-management -- npm run dev
